@@ -13,5 +13,20 @@ Example
 
 """
 
+# Method 1
 def duplicate_count(text):
-    pass
+    count = 0
+    checked = []
+    for l in text.lower():
+        if text.lower().count(l) > 1 and l not in checked:
+            count += 1
+            checked.append(l)
+
+    return count
+
+
+# Method 2
+def duplicate_count_2(text):
+    return len([c for c in set(text.lower()) if text.lower().count(c)>1])
+
+print(duplicate_count_2("aBBA"))
