@@ -6,7 +6,7 @@ Codewars is a community of developers, who are called Code Warriors (or just war
 
 ---
 
-__<span style="font-family:Papyrus; font-size:1.4em; color:#9f3531"/>[My](https://www.codewars.com/users/guiltylogik) Current Rank:</span>__ [<img alt="Profile Badge" src="https://www.codewars.com/users/guiltylogik/badges/large" width=300 align=center>](https://www.codewars.com/users/guiltylogik)
+__<span style="font-family:Papyrus; font-size:1.3em; color:#9f3531"/>[My](https://www.codewars.com/users/guiltylogik) Current Rank:</span>__ [<img alt="Profile Badge" src="https://www.codewars.com/users/guiltylogik/badges/large" width=300 align=center>](https://www.codewars.com/users/guiltylogik)
 
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 
@@ -15,6 +15,10 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 * 5kyu, 6kyu - Novice
 * 7kyu, 8kyu - Beginner
 
-***
+---
 
-**Links to katas in this repository:**
+**Links to __<span style="color:#f8433f">Katas</span>__ and thier __<span style="color:#60e21a">Solutions</span>__ in this repository:**
+
+**<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">6kyu</span>**
+
+1. [__<span style="color:#f8433f">Counting Duplicates</span>__](https://www.codewars.com/kata/counting-duplicates/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/guiltylogik/codewars-solutions-py/blob/master/6kyu/countingDuplicates.py)
