@@ -22,3 +22,5 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">6kyu</span>**
 
 1. [__<span style="color:#f8433f">Counting Duplicates</span>__](https://www.codewars.com/kata/counting-duplicates/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/guiltylogik/codewars-solutions-py/blob/master/6kyu/countingDuplicates.py)
+
+2. [__<span style="color:#f8433f">The Deaf Rats of Hamelin</span>__](https://www.codewars.com/kata/598106cb34e205e074000031/train/python)
