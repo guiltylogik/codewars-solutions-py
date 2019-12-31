@@ -16,5 +16,11 @@ ex1 ~O~O~O~O P has 0 deaf rats
 ex2 P O~ O~ ~O O~ has 1 deaf rat
 ex3 ~O~O~O~OP~O~OO~ has 2 deaf rats
 
-https://www.codewars.com/kata/598106cb34e205e074000031/train/python
+https://www.codewars.com/kata/the-deaf-rats-of-hamelin/train/python
 """
+
+# Method 1
+def count_deaf_rats(town):
+    return town.replace(' ', '')[::2].count('O')
+
+print(count_deaf_rats("~O~O~O~OP~O~OO~"))
