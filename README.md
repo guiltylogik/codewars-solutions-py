@@ -21,7 +21,7 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 **<span style="color:#3d638a; font-family:Papyrus; font-size:1.5em">4kyu</span>**
 
-1. [__<span style="color:#f8433f">Codewars style ranking system</span>__](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/guiltylogik/codewars-solutions-py/blob/master/4kyu/codewars_style_ranking_system.py)
+1. [__<span style="color:#f8433f">Codewars style ranking system</span>__](https://www.codewars.com/kata/codewars-style-ranking-system/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/guiltylogik/codewars-solutions-py/blob/master/4kyu/codewars_style_ranking_system.py)
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">6kyu</span>**
 
